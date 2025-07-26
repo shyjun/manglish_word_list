@@ -290,6 +290,7 @@ aakkiyath
 aakkuka
 aakkukayum
 aakkulam
+aakkum
 aakkunnu
 aakramana
 aakramanam
@@ -1530,6 +1531,7 @@ abrahaaminte
 abu
 abudaabi
 abul
+AC
 acchaar
 acchaaram
 acchaarukal
@@ -1726,6 +1728,7 @@ adhivasikkunna
 adhivasikkunnath
 adhivasikkunnu
 adholoka
+Adhoottan
 adhvaanam
 adhyaapaka
 adhyaapakan
@@ -1789,6 +1792,7 @@ adobi
 adobiyute
 adolph
 adonis
+Adoottan
 adras
 adrasu
 adrinaalin
@@ -3705,6 +3709,7 @@ ashtamuti
 ashtamutikkaayal
 ashtapadi
 ashtapadiyaattam
+ashte
 ashuddhi
 ashuthosh
 ashvamedham
@@ -5274,6 +5279,7 @@ bekkaam
 bekkar
 bekkari
 bekkattu
+bekku
 bekvaral
 belaaras
 belaarus
@@ -6752,6 +6758,7 @@ chalikkaan
 chalikkunna
 chalikkunnu
 Chalikutta
+Chalikuttan
 chalippicchu
 challiyaan
 challiyaante
@@ -7490,6 +7497,7 @@ cheyyaavunnath
 cheyyaavunnathaan
 cheyyal
 cheyyalum
+cheyyam
 cheyyan
 cheyyanam
 cheyyanamenkil
@@ -8006,6 +8014,7 @@ chottashalabham
 choudayya
 choula
 chovva
+Chovva2
 chovvaa
 chovvaazhcha
 chovvalloor
@@ -10160,6 +10169,7 @@ enthaayirikkum
 enthayi
 enthayirunnu
 enthe
+enthegilum
 enthellaam
 enthenkilum
 enthennaal
@@ -10397,6 +10407,7 @@ ethirppumoolam
 ethirttha
 ethirtthirunnu
 ethirtthu
+Ethitt
 ethiya
 ethiyallo
 ethiye
@@ -12080,6 +12091,7 @@ hormonukalute
 hormoos
 hortthoos
 horysan
+hosa
 hosdurg
 hosdurggu
 hose
@@ -12771,6 +12783,7 @@ irayaayi
 iraye
 irayimman
 irayute
+irctc
 iren
 iridiyam
 irigeshan
@@ -14444,6 +14457,7 @@ kaanappetunnundu
 kaanara
 kaanaraa
 kaanari
+kaanatha
 kaancha
 kaanchana
 kaanchanaseetha
@@ -15949,6 +15963,7 @@ kariyum
 kariyuppu
 karkkashamaaya
 karkkatakam
+Karkkidaka
 karkkitaka
 karkkitakam
 karma
@@ -16904,6 +16919,7 @@ kettitatthin
 kettitatthinte
 kettitatthinu
 kettitavum
+Kettitt
 kettittilla
 kettiya
 kettiyaatunna
@@ -17188,6 +17204,7 @@ kittu
 kittuka
 kittukayum
 kittum
+Kittum
 kittumpol
 kittunna
 kittunnath
@@ -17337,6 +17354,7 @@ kodukal
 kodukk
 kodukkam
 kodum
+koduthekk
 koduthu
 kohan
 kohima
@@ -19613,6 +19631,7 @@ laukika
 lav
 lavakushanmaar
 laval
+lavalkk
 lavana
 lavanaamsham
 lavanam
@@ -19777,6 +19796,7 @@ lignyttu
 liji
 lijo
 liju
+Liju
 likhitha
 likhitham
 likhithangal
@@ -20746,6 +20766,7 @@ maaykkal
 maaykkuka
 maaykkunnu
 maayum
+Maaza
 macchaan
 macchaat
 macchinga
@@ -22179,6 +22200,7 @@ megaa
 megaabyttu
 megaavaattu
 megha
+Megha
 meghaalaya
 meghaalayayute
 megham
@@ -26081,6 +26103,7 @@ nonjoyinar
 noo
 nooh
 nookk
+Nookki
 nookku
 nool
 noolppuzha
@@ -26597,6 +26620,7 @@ opparettimg
 opparetting
 opparettingu
 oppeeniyan
+oppichu
 oppikk
 oppikkam
 oppikkan
@@ -28217,6 +28241,7 @@ paranjathinot
 paranjathinte
 paranjathu
 paranjathupole
+paranjekkam
 paranjilla
 paranjirikkunna
 paranjirikkunnath
@@ -29119,6 +29144,8 @@ pellisheri
 pena
 penaaltti
 penakkaakka
+pendrivd
+pendrive
 pendulam
 pengal
 pengvin
@@ -30676,6 +30703,7 @@ poyenkilum
 poyi
 poyille
 poyiloor
+poyino
 poyinr
 poyintil
 poyintu
@@ -33616,6 +33644,7 @@ ritham
 rithesh
 ritreevar
 ritta
+Ritta
 rittayar
 rittayerd
 ritten
@@ -35795,6 +35824,7 @@ sarani
 sarasvathee
 sarasvathi
 sarasvathiyamma
+Sarath
 sarayoo
 sarayu
 sardaar
@@ -39956,6 +39986,7 @@ thakaraarukal
 thakaram
 thakarccha
 thakarcchayum
+Thakarkk
 thakarkkaan
 thakarkkappetta
 thakarkkappettu
@@ -40608,6 +40639,7 @@ theeratthuninnum
 theeravum
 theercchayaayum
 theere
+Theere
 theerkkaan
 theerkkukayum
 theerkkunnu
@@ -43998,6 +44030,7 @@ vamshavarddhana
 vamshavum
 vamsheeya
 vamsheeyatha
+Vamsi
 vana
 vanaantharangalil
 vanabhoomi
@@ -46848,6 +46881,7 @@ vottukal
 vottukalkku
 vottukalute
 vottum
+Vova
 voyej
 voyejar
 voyis

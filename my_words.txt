@@ -5,6 +5,7 @@ aakk
 aakkam
 aakkan
 aakki
+aakkum
 aal
 aalochichu
 aanallo
@@ -20,6 +21,7 @@ aarikkum
 aarude
 aasari
 aavo
+aayath
 aayi
 aayilla
 aayille
@@ -28,9 +30,11 @@ aayirunno
 aayirunnu
 aayitt
 aayo
+AC
 Achan
 adangan
 adhikam
+Adhoottan
 adi
 adich
 adicha
@@ -47,6 +51,7 @@ adikkum
 adikkunnath
 adipoli
 adiyaa
+Adoottan
 aduth
 aduthu
 aethu
@@ -68,9 +73,11 @@ appol
 appolekkum
 Arabi
 Aravind
+arinju
 ariy
 ariyilla
 ariyu
+ashte
 athe
 atheo
 atheyo
@@ -91,6 +98,7 @@ azhichu
 azhinju
 bandham
 bandhan
+bekku
 bhaarya
 bhayya
 biriyani
@@ -105,6 +113,7 @@ Chakkarakal
 chakkare
 Chali
 Chalikutta
+Chalikuttan
 Chamundi
 changayi
 charakk
@@ -114,8 +123,11 @@ chekkan
 chekkante
 chelav
 cherungane
+cheythath
+cheythathu
 cheythu
 cheyy
+cheyyam
 cheyyan
 cheyyum
 cheyyunna
@@ -123,6 +135,7 @@ chilav
 chodikk
 choor
 Chotie
+Chovva2
 coverity
 dey
 Dhanutti
@@ -165,6 +178,7 @@ entha
 enthayi
 enthayirunnu
 enthe
+enthegilum
 enthokkeya
 enthonnu
 enthu
@@ -175,6 +189,7 @@ eppozha
 eppozhathekk
 Eranakulam
 ethi
+Ethitt
 ethiya
 ethiyallo
 ethiye
@@ -192,6 +207,7 @@ Hajosh
 hmm
 hmmm
 hogale
+hosa
 HSR
 HSRLayout
 Hunskur
@@ -216,6 +232,7 @@ ippozha
 ippozhum
 irakk
 irangi
+irctc
 irikk
 irikkuaa
 irikkunnu
@@ -237,10 +254,12 @@ jayukkum
 ji
 Jira
 Jithin
+kaakka
 kaalam
 kaali
 kaanaam
 kaanaan
+kaanatha
 kaanu
 kaanua
 kaanum
@@ -270,6 +289,7 @@ kandu
 kannadi
 Kannu
 Kargil
+Karkkidaka
 Kasarkod
 kashtam
 katha
@@ -298,6 +318,7 @@ kelkan
 kelkand
 kelkanda
 kelkandu
+Kettitt
 Keylong
 kidakk
 kidakkam
@@ -314,9 +335,11 @@ kittiye
 kittiyilla
 kittiyillallo
 kittiyo
+Kittum
 kizhi
 kodukk
 kodukkam
+koduthekk
 koduthu
 Koily
 kolam
@@ -355,12 +378,16 @@ kurippine
 kury
 kutta
 laddu
+laval
+lavalkk
 lekk
+Liju
 Maadhavi
 maanam
 maari
 maathram
 maathrame
+Maaza
 machi
 Madiwala
 madyam
@@ -405,6 +432,7 @@ medikkanda
 medikkano
 meera
 meetam
+Megha
 melle
 Minnu
 mlechan
@@ -483,6 +511,7 @@ nokkiyal
 nokkiyalo
 nokkiyatte
 nookk
+Nookki
 nookku
 nte
 odukkathe
@@ -497,6 +526,7 @@ oombi
 Ootty
 oppam
 opparam
+oppichu
 oppikk
 oppikkam
 oppikkan
@@ -527,6 +557,7 @@ paranj
 paranjal
 paranjath
 paranjatha
+paranjekkam
 paranjit
 paranju
 paray
@@ -554,6 +585,8 @@ pattiye
 pattiyo
 pazham
 pazhaya
+pendrivd
+pendrive
 PhonePay
 pinangi
 Pinarayi
@@ -589,6 +622,7 @@ poyallo
 poyath
 poyi
 poyille
+poyino
 poyirunn
 poyo
 Prajeesh
@@ -620,6 +654,7 @@ Rasika
 Ratheesh
 rebase
 rebased
+Ritta
 Rohith
 saadhanam
 saaram
@@ -631,6 +666,7 @@ sambhavam
 sammatham
 sankhi
 Sapthas
+Sarath
 shaji
 Shalini
 shankh
@@ -656,6 +692,7 @@ swayamvaram
 Tavarekere
 th
 thaaram
+Thakarkk
 thakarnn
 thakarnnu
 thala
@@ -675,6 +712,7 @@ tharipp
 tharum
 tharumo
 thats
+Theere
 theerth
 theerthu
 theetta
@@ -709,6 +747,7 @@ ulle
 ullu
 Umesh
 Umeshan
+umma
 unda
 undak
 undakilla
@@ -718,6 +757,7 @@ undakkalle
 undakkanam
 undakum
 undakumo
+undallo
 undengil
 undu
 unnath
@@ -751,6 +791,7 @@ vala
 valare
 valaya
 valayam
+Vamsi
 vandi
 vannal
 vanne
@@ -828,4 +869,5 @@ vitte
 vittu
 vizhungi
 vizhungikko
+Vova
 yirunnu
