@@ -1,0 +1,6 @@
+[submodule "dictionaries"]
+	path = dictionaries
+	url = https://gitlab.com/indicproject/dictionaries.git
+[submodule "ml2en"]
+	path = ml2en
+	url = https://github.com/knadh/ml2en.git
